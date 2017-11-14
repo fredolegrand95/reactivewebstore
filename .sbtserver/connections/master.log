@@ -1,0 +1,37 @@
+New log file opened at Tue Nov 14 14:25:44 CET 2017 by 9716@Fredo-PC
+Taking next connection to: 61596
+New client attempting to connect on port: 61597-61596
+  Address = /192.168.1.46:61596
+This client on port 61597 has uuid 1bce2837-e4e8-4ec7-acf5-6420e997fd1d configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-1bce2837-e4e8-4ec7-acf5-6420e997fd1d
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+We have 1 non-daemon clients, continuing serving connections.
+Taking next connection to: 61596
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 9716@Fredo-PC logs at Tue Nov 14 14:52:46 CET 2017, goodbye.
